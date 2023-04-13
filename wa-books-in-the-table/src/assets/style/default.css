@@ -1,0 +1,11 @@
+.box {
+  background-color: rgb(248, 238, 204) !important;
+  height: 4rem;
+  margin-top: 25px;
+  display: flex !important;
+  align-items: center;
+}
+
+.not-found {
+  text-align: center;
+}
